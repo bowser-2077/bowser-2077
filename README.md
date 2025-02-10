@@ -50,5 +50,6 @@ Not any one
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
+**Hey you, thanks to watching this page, you are one of them**
 ![](https://komarev.com/ghpvc/?username=bowser-2077&color=brightgreen)
 </div>
