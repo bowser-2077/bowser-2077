@@ -49,6 +49,8 @@ Not any one
 ---
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
+!![GitHub stars](https://img.shields.io/github/stars/bowser-2077?affiliations=OWNER&style=flat-square)
+
 ---
 **Hey you, thanks to watching this page, you are one of them >>**
 ![](https://komarev.com/ghpvc/?username=bowser-2077&color=brightgreen)
