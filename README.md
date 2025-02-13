@@ -49,7 +49,8 @@ Not any one
 ---
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
-!![GitHub stars](https://img.shields.io/github/stars/bowser-2077?affiliations=OWNER&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/bowser-2077?affiliations=OWNER&style=for-the-badge)
+
 
 ---
 **Hey you, thanks to watching this page, you are one of them >>**
