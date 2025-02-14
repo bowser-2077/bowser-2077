@@ -1,7 +1,4 @@
-<h3 align="center">
-  Welcome to My profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+![Menu Image](https://i.ibb.co/GQVqJf65/image.png)
 <p align="center">
   <a href="https://bowser-2077.github.io"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Bowser-2077;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev"></a>
 </p>
