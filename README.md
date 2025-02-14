@@ -11,7 +11,7 @@
   
 🌱 I’m currently learning : HTML, NodeJS, Python
 
-  🤔 I’m Not looking for help
+  🤔 I’m looking for help with python
 
   💬 Ask me about for any help
 
